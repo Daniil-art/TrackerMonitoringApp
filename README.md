@@ -1,5 +1,5 @@
 # TrackerMonitoringApp
-Application for notification of executing breaks(eye care reminder). Monitoring statistic of usage.
+Application for notification of executing breaks (eye care reminder). Monitoring the usage statistics.
 
 
 to dowload English verison 1.1 of application:
