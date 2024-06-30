@@ -5,3 +5,6 @@ Clicking on the notification icon allows launching or interacting with the appli
 
 to dowload English verison 1.1 of application:
 https://github.com/Daniil-art/TrackerMonitoringApp/releases/download/version_1.1/setup_tracker_of_usage.exe
+
+to dowload User manual:
+https://github.com/Daniil-art/TrackerMonitoringApp/releases/download/version_1.1/User_manual_TrackerMonitoringApp.pdf
